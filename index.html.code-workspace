@@ -1,0 +1,14 @@
+{
+  "folders": [
+	{
+		"path": ".."
+	},
+	{
+		"path": "..\\..\\htmlwork"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "htmlwork",
+    "git.ignoreLimitWarning": true
+  }
+}
